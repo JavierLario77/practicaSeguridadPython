@@ -1,0 +1,118 @@
+SAI calcular W, despejar la W, W=VA/1.4
+download python
+agregar al path desde el instalador
+ponemos idle python en buscador windows
+en la terminal podemos poner python y se activa tambien
+#5//3 es para obtener el resultado de la division sin decimales
+5+3
+
+5+3;
+
+5+3; 6+5
+
+5+3; 6-3; 5*8; 5/3; 5//3
+
+>>460//60
+7
+>>460%60
+40
+
+#el 40 seria el resto de la división serían los segundos y el 7 los minutos 
+
+>>2**10
+1024
+>>2**4
+16
+
+#el doble asterisco es elevado a
+
+>>abs (-45)
+45
+>>round (3.1416,3)
+3.142
+>>round(5/3,2)
+1.67
+>>pi=3.1416
+>>round (pi,2)
+3.14
+>>type(pi)
+<class 'float'>
+>>pi=round(pi,2)
+>>pi
+3.14
+>>type (1)
+<class 'int'>
+
+>>'hola'[0]
+'h'
+>>saludo='Hola'
+>>saludo[0]
+'H'
+>>saludo='Hola','Pepe' 
+>>saludo
+('Hola','Pepe')
+>>saludo[0]
+'Hola'
+>>saludo[1]
+'Pepe'
+>>saludo[1][0]
+'p'
+>>saludo=(('Hola','Hello','Salut'),('Juan','Jhon','Jean'))
+>>saludo[0][0]+ ' ' + saludo[1][0]
+'Hola Juan'
+>>saludo[0][0]+ ' ' + saludo[1][0][0] + '.'
+'Hola J.'
+
+#En el buscador de github ponemos: luisaparra-info/cursoHacking
+
+>>nombre,apellidos='Luisa','Parra'
+>>nombre
+'Luisa'
+>>apellidos
+'Parra'
+>>nombre='Luisa'
+>>print('Mi nombre es ',nombre)
+Mi nombre es Luisa
+
+>>c=5
+>>a=3
+>>c+=a
+>>c
+8
+
+>>a==c
+true
+>>a != c
+false
+>>a<c
+false
+>>a>c
+false
+
+>>a,b=5,5
+>>a == b
+true
+>>a != b
+false
+>>b=7
+>>a != b
+true
+>>type(b)
+<class 'int'>
+>>b='Hola'
+>>type(b)
+<class 'str'>
+>>b=7
+>>c=8
+>>if(c==9 or c==8): print('Hola') else: print('Adios')
+#Luisa lo uso el if en una linea,el print en otra y el else en otra y el print en otra y le funcionó
+>>if(c==9 or c==8):
+ print('Hola') 
+else: 
+print('Adios')
+#while!(c==x){
+#while(c!=x){
+>>not True
+false
+--------------------------------------CLASE 2
+
